@@ -210,5 +210,6 @@
 ||winred.com^
 ||wnd.com^
 ||wwcr.com^
+||x.ai^
 ||x.com^
 ||yaf.org^
