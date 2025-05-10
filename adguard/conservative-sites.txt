@@ -158,6 +158,8 @@
 ||smalldeadanimals.com^
 ||sonorannews.com^
 ||sophiainstitute.com^
+||spectator.co.uk^
+||spectator.com.au^
 ||srnonline.com^
 ||standard.co.uk^
 ||steynonline.com^
@@ -185,6 +187,7 @@
 ||thepostmillennial.com^
 ||therightbrothers.com^
 ||theseattleconservative.com^
+||thespectator.com^
 ||thethinkingconservative.com^
 ||thestar.com^
 ||thesundaytimes.co.uk^
