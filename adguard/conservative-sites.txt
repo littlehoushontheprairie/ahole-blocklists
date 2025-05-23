@@ -23,6 +23,7 @@
 ||americanmainstreet.org^
 ||americanmoment.org^
 ||americanprinciplesproject.org^
+||americanthinker.com^
 ||americarenewing.com^
 ||americasvoice.news^
 ||amfamproject.org^
