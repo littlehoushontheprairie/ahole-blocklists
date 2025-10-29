@@ -86,6 +86,8 @@
 ||gbnews.com^
 ||goacta.org^
 ||gopjosh.com^
+||grok.com^
+||grokipedia.com^
 ||heartland.org^
 ||hegetsus.com^
 ||heritage.org^
