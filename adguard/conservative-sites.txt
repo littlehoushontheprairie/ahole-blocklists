@@ -87,6 +87,8 @@
 ||goacta.org^
 ||gopjosh.com^
 ||grok.com^
+||grok4.me^
+||grok.online^
 ||grokipedia.com^
 ||heartland.org^
 ||hegetsus.com^
