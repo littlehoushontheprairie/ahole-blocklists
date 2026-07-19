@@ -197,7 +197,8 @@
 ||thestar.com^
 ||thesundaytimes.co.uk^
 ||thesun.co.uk^
-||thetimes.co.uk
+||thetimes.co.uk^
+||thirdtermproject.com^
 ||tmtgcorp.com^
 ||tnc.news^
 ||townhall.com^
